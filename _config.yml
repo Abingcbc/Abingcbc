@@ -100,14 +100,3 @@ ignore:
 ## Themes: https://hexo.io/themes/
 theme: flexy
 
-# Deployment
-## Docs: https://hexo.io/docs/one-command-deployment
-deploy:
-  type: git
-  repo:
-    github: https://github.com/Abingcbc/Abingcbc.git
-  branch: master
-  token: $GH_TOKEN
-  on:
-    branch: master
-  local-dir: public
