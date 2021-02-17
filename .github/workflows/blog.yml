@@ -24,6 +24,6 @@ jobs:
       uses: actions/setup-node@v1
       with:
         node-version: ${{ matrix.node-version }}
-    - run: cd blog && ls && npm install && hexo generate && hexo d
+    - run: cd blog && npm install --save && hexo generate && hexo d
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
