@@ -7,7 +7,7 @@ branches:
   only:
     - master
 script:
-  - cd blog && npm install && hexo g & d
+  - cd blog && npm install && hexo g && hexo d
 deploy:
   provider: pages
   skip-cleanup: true
