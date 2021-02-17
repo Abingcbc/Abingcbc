@@ -1,13 +1,13 @@
 sudo: false
 language: node_js
 node_js:
-  - 10 # use nodejs v10 LTS
+  - 10
 cache: npm
 branches:
   only:
-    - master # build master branch only
+    - master
 script:
-  - cd blog && hexo generate # generate static files
+  - cd blog && npm install && hexo g & d
 deploy:
   provider: pages
   skip-cleanup: true
