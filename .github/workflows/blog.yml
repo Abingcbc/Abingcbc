@@ -17,6 +17,6 @@ jobs:
     - name: Hexo GitHub Action
       uses: yrpang/github-actions-hexo@v1.3
       with:
-        deploykey: ${{ secrets.GITHUB_TOKEN }}
-        username: abingcbc
+        deploykey: ${{ secrets.GH_TOKEN }}
+        username: Abingcbc
         email: abingcbc626@gmail.com
