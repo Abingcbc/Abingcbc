@@ -19,12 +19,12 @@ jobs:
       with:
         path: node_modules
         key: ${{runner.OS}}-${{hashFiles('**/package-lock.json')}}
-    - run: cat ${{ secrets.DEPLOY_KEY }} > tmp.file
-    - run: cat tmp.file
     - name: Hexo GitHub Action
       uses: sma11black/hexo-action@master
       with:
-        deploy_key: ${{ secrets.DEPLOY_KEY }}
+        deploy_key: $DEPLOY_KEY
         user_name: Abingcbc
         user_email: abingcbc626@gmail.com
         commit_msg: ${{ github.event.head_commit.message }}
+      env:
+       DEPLOY_KEY: ${{ secrets.DEPLOY_KEY }}
