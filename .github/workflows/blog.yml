@@ -22,7 +22,6 @@ jobs:
     - name: Hexo GitHub Action
       uses: sma11black/hexo-action@v1.0.3
       with:
-      with:
         deploy_key: ${{ secrets.GH_TOKEN }}
         user_name: Abingcbc
         user_email: abingcbc626@gmail.com
