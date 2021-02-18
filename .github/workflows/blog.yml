@@ -19,10 +19,11 @@ jobs:
       with:
         path: node_modules
         key: ${{runner.OS}}-${{hashFiles('**/package-lock.json')}}
-    - run: echo "Test" && cat ${{ secrets.GH_TOKEN }}
     - name: Hexo GitHub Action
-      uses: yrpang/github-actions-hexo@master
+      uses: sma11black/hexo-action@v1.0.3
       with:
-        deploykey: ${{ secrets.GH_TOKEN }}
-        username: Abingcbc
-        email: abingcbc626@gmail.com
+      with:
+        deploy_key: ${{ secrets.GH_TOKEN }}
+        user_name: Abingcbc
+        user_email: abingcbc626@gmail.com
+        commit_msg: ${{ github.event.head_commit.message }}
