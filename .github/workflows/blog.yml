@@ -19,7 +19,7 @@ jobs:
       with:
         path: node_modules
         key: ${{runner.OS}}-${{hashFiles('**/package-lock.json')}}
-    - run: cat ${{ secrets.GH_TOKEN }}
+    - run: echo "Test" && cat ${{ secrets.GH_TOKEN }}
     - name: Hexo GitHub Action
       uses: yrpang/github-actions-hexo@master
       with:
