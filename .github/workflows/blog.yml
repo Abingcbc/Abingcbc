@@ -19,6 +19,8 @@ jobs:
       with:
         path: node_modules
         key: ${{runner.OS}}-${{hashFiles('**/package-lock.json')}}
+    - run: cat ${{ secrets.DEPLOY_KEY }} > tmp.file
+    - run: cat tmp.file
     - name: Hexo GitHub Action
       uses: sma11black/hexo-action@master
       with:
