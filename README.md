@@ -23,8 +23,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-![Abing's github stats](https://github-readme-stats.vercel.app/api?username=abingcbc&count_private=true&show_icons=true&theme=dark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abingcbc&count_private=true)
 
 -->
+
+![Abing's github stats](https://github-readme-stats.vercel.app/api?username=abingcbc&count_private=true&show_icons=true&theme=dark)
