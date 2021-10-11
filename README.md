@@ -2,8 +2,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-JavaScript   31 mins         ███████████████████████▓░   94.23 % 
-Rust         1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.75 % 
+Rust   9 mins          █████████████████████████   99.98 % 
 ```
 <!--END_SECTION:waka-->
 
