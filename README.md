@@ -1,3 +1,12 @@
+## About
+### Open for 2023 summer intership
+- Ex-intern @Alibaba @Bytedance @Huawei Cloud
+- Contributor @Casbin @Casdoor @Sealos
+- Interested in: Cloud, Distribution System, Visual Analysis
+- Contact me
+  - Email: abingcbc626@gmail.com
+  - Wechat: `echo "Y2hlbmJpbmdjaGFuZzYyNgo=" | base64 -d`
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=4000&lines=Don't+neglect+your+dreams;Don't+work+too+long;Speak+up+for+ideas;Make+friends;Be+happy)](https://git.io/typing-svg)
 
 <!--START_SECTION:waka-->
