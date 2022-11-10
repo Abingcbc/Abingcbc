@@ -2,6 +2,7 @@
 ### Open for 2023 summer intership
 - Ex-intern @Alibaba @Bytedance @Huawei Cloud
 - Contributor @Casbin @Casdoor @Sealos
+- GSoC 2021 @TiKV
 - Interested in: Cloud, Distribution System, Visual Analysis
 - Contact me
   - Email: abingcbc626@gmail.com
