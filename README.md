@@ -3,10 +3,7 @@
 - Ex-intern @Alibaba @Bytedance @Huawei Cloud
 - Contributor @Casbin @Casdoor @Sealos
 - GSoC 2021 @TiKV
-- Interested in: Cloud, Distribution System, Visual Analysis
-- Contact me
-  - Email: abingcbc626@gmail.com
-  - Wechat: `echo "Y2hlbmJpbmdjaGFuZzYyNgo=" | base64 -d`
+- Interested in: Cloud, Site Reliability Engineering, Visual Analysis
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=4000&lines=Don't+neglect+your+dreams;Don't+work+too+long;Speak+up+for+ideas;Make+friends;Be+happy)](https://git.io/typing-svg)
 
