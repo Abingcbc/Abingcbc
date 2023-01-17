@@ -2,8 +2,13 @@
 ### Open for 2023 summer intership
 - Ex-intern @Alibaba @Bytedance @Huawei Cloud
 - Contributor @Casbin @Casdoor @Sealos
-- GSoC 2021 @TiKV
-- Interested in: Cloud, Site Reliability Engineering, Visual Analysis
+- GSoC 2021 Mentee @TiKV
+- GSoC 2022 Mentor @Casbin
+- Interested in: Cloud, Site Reliability Engineering, MLSys, Visual Analysis
+
+Feel free to contact me :)
+- Email: abingcbc626@gmail.com
+- WeChat: `echo MTg4MTc1ODMyMDcK | base64 -d`
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=4000&lines=Don't+neglect+your+dreams;Don't+work+too+long;Speak+up+for+ideas;Make+friends;Be+happy)](https://git.io/typing-svg)
 
