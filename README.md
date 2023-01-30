@@ -15,12 +15,7 @@ Feel free to contact me :)
 <!--START_SECTION:waka-->
 
 ```text
-Go              1 hr 55 mins    ██████████████▓░░░░░░░░░░   58.92 %
-YAML            50 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.84 %
-Python          11 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.81 %
-Docker          10 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.48 %
-JSON            3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.01 %
-Markdown        1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.72 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
