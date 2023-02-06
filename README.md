@@ -15,7 +15,9 @@ Feel free to contact me :)
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Python   18 mins         ███████████████▓░░░░░░░░░   62.34 %
+Go       5 mins          █████░░░░░░░░░░░░░░░░░░░░   19.35 %
+YAML     5 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.32 %
 ```
 
 <!--END_SECTION:waka-->
