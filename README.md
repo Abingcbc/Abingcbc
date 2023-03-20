@@ -15,11 +15,9 @@ Feel free to contact me :)
 <!--START_SECTION:waka-->
 
 ```text
-Python       8 hrs 26 mins   ████████████▒░░░░░░░░░░░░   49.99 %
-Go           3 hrs 49 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.72 %
-Markdown     1 hr 35 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.45 %
-YAML         1 hr 20 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.91 %
-Other        27 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.72 %
+Python       11 hrs 17 mins  ███████████████▓░░░░░░░░░   63.29 %
+Go           2 hrs 57 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.57 %
+Other        58 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.50 %
 ```
 
 <!--END_SECTION:waka-->
