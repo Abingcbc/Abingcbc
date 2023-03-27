@@ -4,7 +4,7 @@
 - Contributor @Casbin @Casdoor @Sealos
 - GSoC 2021 Mentee @TiKV
 - GSoC 2022 Mentor @Casbin
-- Interested in: Cloud, Site Reliability Engineering, MLSys, Visual Analysis
+- Interested in: Cloud, Visual Analysis
 
 Feel free to contact me :)
 - Email: abingcbc626@gmail.com
