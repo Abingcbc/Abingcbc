@@ -15,9 +15,10 @@ Feel free to contact me :)
 <!--START_SECTION:waka-->
 
 ```text
-Python       11 hrs 17 mins  ███████████████▓░░░░░░░░░   63.29 %
-Go           2 hrs 57 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.57 %
-Other        58 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.50 %
+Python                     15 hrs 32 mins  █████████████████▒░░░░░░░   69.72 %
+C++                        2 hrs 57 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.25 %
+Jupyter                    1 hr 53 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.50 %
+Other                      1 hr 30 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.73 %
 ```
 
 <!--END_SECTION:waka-->
