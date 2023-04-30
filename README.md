@@ -1,10 +1,10 @@
 ## About
-### Open for 2023 summer intership
+### Open for 2024 full-time position
 - Ex-intern @Alibaba @Bytedance @Huawei Cloud
 - Contributor @Casbin @Casdoor @Sealos
 - GSoC 2021 Mentee @TiKV
 - GSoC 2022 Mentor @Casbin
-- Interested in: Cloud, Visual Analysis
+- Interested in: Observability, Cloud, MLsys, Visual Analysis
 
 Feel free to contact me :)
 - Email: abingcbc626@gmail.com
