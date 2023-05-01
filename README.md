@@ -15,12 +15,7 @@ Feel free to contact me :)
 <!--START_SECTION:waka-->
 
 ```text
-Markdown     1 hr 5 mins     ████████████▒░░░░░░░░░░░░   48.96 %
-Bash         38 mins         ███████▒░░░░░░░░░░░░░░░░░   29.00 %
-Python       13 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.17 %
-TypeScript   9 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.18 %
-JavaScript   4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 %
-YAML         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
