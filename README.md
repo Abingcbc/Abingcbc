@@ -1,6 +1,7 @@
 ## About
 ### Open for 2024 full-time position
-- Ex-intern @Alibaba @Bytedance @Huawei Cloud
+- To be intern @Aliyun
+- Ex-intern @Alibaba @Bytedance @Huawei Cloud @Wizard Quant
 - Contributor @Casbin @Casdoor @Sealos
 - GSoC 2021 Mentee @TiKV
 - GSoC 2022 Mentor @Casbin
