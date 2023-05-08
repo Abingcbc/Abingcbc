@@ -17,7 +17,10 @@ Feel free to contact me :)
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Go         1 hr 2 mins     ███████████████████░░░░░░   75.92 %
+YAML       11 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.96 %
+Makefile   4 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.79 %
+Other      3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 %
 ```
 
 <!--END_SECTION:waka-->
