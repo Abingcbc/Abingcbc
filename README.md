@@ -1,7 +1,8 @@
 ## About
 ### Open for 2024 full-time position
+- Summer Intern @Aliyun SLS, working on [iLogtail](https://github.com/alibaba/ilogtail)
 - Ex-intern @Alibaba @Bytedance @Huawei Cloud @Wizard Quant
-- Contributor @Casbin @Casdoor @Sealos @iLogtail
+- Contributor @Casbin @Casdoor @Sealos
 - GSoC 2021 Mentee @TiKV
 - GSoC 2022 Mentor @Casbin
 - OSPP 2023 Mentor @Casdoor
