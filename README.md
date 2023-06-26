@@ -4,8 +4,6 @@
 - Ex-intern @Alibaba @Bytedance @Huawei Cloud @Wizard Quant
 - Contributor @Casbin @Casdoor @Sealos
 - GSoC 2021 Mentee @TiKV
-- GSoC 2022 Mentor @Casbin
-- OSPP 2023 Mentor @Casdoor
 - Interested in: Observability, Cloud, MLsys, Visual Analysis
 
 Feel free to contact me :)
