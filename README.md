@@ -1,10 +1,15 @@
 ## About
 ### Open for 2024 full-time position
-- Summer Intern @Aliyun SLS, working on [iLogtail](https://github.com/alibaba/ilogtail)
-- Ex-intern @Alibaba @Bytedance @Huawei Cloud @Wizard Quant
-- Contributor @Casbin @Casdoor @Sealos
+- Ex-intern
+  - @Alibaba
+  - @Bytedance
+  - @Huawei Cloud
+  - @Wizard Quant
+  - @Aliyun
+  - @Minghong Quant
+- Contributor @iLogtail @Casbin @Sealos
 - GSoC 2021 Mentee @TiKV
-- Interested in: Observability, Cloud, MLsys, Visual Analysis
+- Interested in Observability, MLsys
 
 Feel free to contact me :)
 - Email: abingcbc626@gmail.com
