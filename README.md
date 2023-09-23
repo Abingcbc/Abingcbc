@@ -1,15 +1,17 @@
 ## About
 ### Open for 2024 full-time position
 - Ex-intern
-  - @Alibaba
-  - @Bytedance
-  - @Huawei Cloud
-  - @Wizard Quant
-  - @Aliyun
-  - @Minghong Quant
+  - Infra:
+    - @Alibaba
+    - @Aliyun
+  - AI Platform:
+    - @Bytedance
+    - @Huawei Cloud
+    - @Wizard Quant
+    - @Minghong Quant
 - Contributor @iLogtail @Casbin @Sealos
 - GSoC 2021 Mentee @TiKV
-- Interested in Observability, MLsys
+- Interested in Observability and MLsys
 
 Feel free to contact me :)
 - Email: abingcbc626@gmail.com
