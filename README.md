@@ -22,11 +22,11 @@ Feel free to contact me :)
 <!--START_SECTION:waka-->
 
 ```txt
-Python         5 hrs 22 mins   ███████████░░░░░░░░░░░░░░   44.15 %
-HTML           5 hrs 14 mins   ██████████▓░░░░░░░░░░░░░░   43.05 %
-Assembly       35 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.83 %
-Ezhil          22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.05 %
-JavaScript     19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.68 %
+HTML         6 hrs 17 mins   ████████████▒░░░░░░░░░░░░   49.77 %
+JavaScript   2 hrs 42 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.37 %
+GDScript     39 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.22 %
+Assembly     33 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 %
+Ezhil        27 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 %
 ```
 
 <!--END_SECTION:waka-->
