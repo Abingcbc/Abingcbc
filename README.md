@@ -22,9 +22,11 @@ Feel free to contact me :)
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   55 mins         █████████████████████░░░░   83.89 %
-HTML         10 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.92 %
-GDScript3    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
+JavaScript       4 hrs 22 mins   █████████████████▒░░░░░░░   69.73 %
+CSS              38 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.14 %
+Assembly         25 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.85 %
+HTML             21 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.61 %
+MySQL            15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 %
 ```
 
 <!--END_SECTION:waka-->
