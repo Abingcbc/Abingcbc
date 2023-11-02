@@ -1,14 +1,8 @@
 ## About
 ### Open for 2024 full-time position
 - Ex-intern
-  - Infra:
-    - @Alibaba
-    - @Aliyun
-  - AI Platform:
-    - @Bytedance
-    - @Huawei Cloud
-    - @Wizard Quant
-    - @Minghong Quant
+  - Infra: @Alibaba @Aliyun
+  - AI Platform: @Bytedance @Huawei Cloud @Wizard Quant @Minghong Quant
 - Contributor @iLogtail @Casbin @Sealos
 - GSoC 2021 Mentee @TiKV
 - Interested in Observability and MLsys
