@@ -16,11 +16,11 @@ Feel free to contact me :)
 <!--START_SECTION:waka-->
 
 ```txt
-Python                     14 hrs 32 mins  ███████████████▓░░░░░░░░░   62.69 %
-Other                      6 hrs 1 min     ██████▒░░░░░░░░░░░░░░░░░░   25.99 %
-Text                       1 hr 4 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 %
-CSV                        1 hr 2 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.47 %
-Nginx configuration file   9 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 %
+Python       8 hrs 28 mins   █████████████▒░░░░░░░░░░░   53.27 %
+Other        5 hrs 48 mins   █████████░░░░░░░░░░░░░░░░   36.49 %
+JSON         32 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 %
+Docker       29 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.11 %
+CSV          13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.42 %
 ```
 
 <!--END_SECTION:waka-->
