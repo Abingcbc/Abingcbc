@@ -16,10 +16,8 @@ Feel free to contact me :)
 <!--START_SECTION:waka-->
 
 ```txt
-Python   2 hrs 55 mins   █████████████████████░░░░   83.53 %
-CSV      33 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.96 %
-Text     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
-Other    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
+Python   1 hr 6 mins     ███████████████████████▒░   93.11 %
+CSV      4 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.89 %
 ```
 
 <!--END_SECTION:waka-->
