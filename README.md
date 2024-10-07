@@ -18,8 +18,7 @@ Feel free to contact me :)
 <!--START_SECTION:waka-->
 
 ```txt
-Go     5 mins          ██████████████████████░░░   87.66 %
-YAML   0 secs          ███░░░░░░░░░░░░░░░░░░░░░░   12.34 %
+Go   26 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
