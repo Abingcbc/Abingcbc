@@ -18,11 +18,7 @@ Feel free to contact me :)
 <!--START_SECTION:waka-->
 
 ```txt
-YAML      43 mins         █████████████▓░░░░░░░░░░░   54.22 %
-Docker    11 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.20 %
-Go        9 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.54 %
-Other     5 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 %
-Bash      4 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.52 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
