@@ -18,7 +18,11 @@ Feel free to contact me :)
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Other    52 mins         █████████▓░░░░░░░░░░░░░░░   38.45 %
+Go       50 mins         █████████▒░░░░░░░░░░░░░░░   36.76 %
+C++      19 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.94 %
+YAML     8 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.91 %
+Roff     2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.00 %
 ```
 
 <!--END_SECTION:waka-->
