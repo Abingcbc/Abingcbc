@@ -18,8 +18,9 @@ Feel free to contact me :)
 <!--START_SECTION:waka-->
 
 ```txt
-Other   57 mins         █████████████▓░░░░░░░░░░░   54.59 %
-C++     47 mins         ███████████▒░░░░░░░░░░░░░   45.41 %
+Other    2 mins          ████████████████▒░░░░░░░░   64.67 %
+Bash     0 secs          ████▓░░░░░░░░░░░░░░░░░░░░   18.16 %
+Python   0 secs          ████▒░░░░░░░░░░░░░░░░░░░░   17.17 %
 ```
 
 <!--END_SECTION:waka-->
