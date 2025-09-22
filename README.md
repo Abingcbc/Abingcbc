@@ -18,7 +18,9 @@ Feel free to contact me :)
 <!--START_SECTION:waka-->
 
 ```txt
-C++   0 secs          █████████████████████████   100.00 %
+C++      2 hrs 14 mins   █████████████▒░░░░░░░░░░░   53.69 %
+Other    1 hr 55 mins    ███████████▓░░░░░░░░░░░░░   46.07 %
+Python   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
 ```
 
 <!--END_SECTION:waka-->
