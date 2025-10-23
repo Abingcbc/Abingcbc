@@ -15,14 +15,6 @@ Feel free to contact me :)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=4000&lines=Don't+neglect+your+dreams;Don't+work+too+long;Speak+up+for+ideas;Make+friends;Be+happy)](https://git.io/typing-svg)
 
-<!--START_SECTION:waka-->
-
-```txt
-Other   0 secs          ████████████████████████▒   97.04 %
-Bash    0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.96 %
-```
-
-<!--END_SECTION:waka-->
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=abingcbc&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
