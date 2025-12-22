@@ -1,7 +1,5 @@
 ## About
 
-Working at Aliyun Observability
-
 - Ex-intern
   - Infra: @Alibaba @Aliyun
   - AI Platform: @Bytedance @Huawei Cloud @Wizard Quant @Minghong Quant
