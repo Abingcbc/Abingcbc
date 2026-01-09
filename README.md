@@ -1,11 +1,12 @@
 ## About
 
+- Former Software Engineer at @Aliyun
 - Ex-intern
   - Infra: @Alibaba @Aliyun
-  - AI Platform: @Bytedance @Huawei Cloud @Wizard Quant @Minghong Quant
+  - AI Platform: @Bytedance AML @Quant
 - Contributor @iLogtail @Casbin @Sealos
 - GSoC 2021 Mentee @TiKV
-- Interested in Observability, MLsys(on K8s) and HPC
+- Interested in MLsys(on K8s)
 
 Feel free to contact me :)
 - Email: abingcbc626@gmail.com
